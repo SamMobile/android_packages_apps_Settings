@@ -4111,4 +4111,8 @@
     <string name="usb_mass_storage_title">Mass storage</string>
     <string name="usb_mass_storage_summary">Enable USB mass storage</string>
 
+    <!-- About phone screen, supernexus version-->
+    <string name="mod_version">SuperNexus version</string>
+    <string name="mod_version_default">Unknown</string>
+
 </resources>
